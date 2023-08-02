@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Awesomewsdm)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Luckyman-app)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Awesomewsdm&repo=Luckyman-app)
